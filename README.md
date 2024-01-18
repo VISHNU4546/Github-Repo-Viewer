@@ -20,3 +20,15 @@ This web application allows users to enter a GitHub username and view the public
 
    ```bash
    git clone https://github.com/vishnu4546/your-repo-name.git
+
+
+
+
+
+   Technologies Used
+HTML
+CSS
+JavaScript
+Dependencies
+Bootstrap: Used for basic styling and layout.
+jQuery: Used for simplifying DOM manipulation.
