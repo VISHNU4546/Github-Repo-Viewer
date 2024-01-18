@@ -25,10 +25,4 @@ This web application allows users to enter a GitHub username and view the public
 
 
 
-   Technologies Used
-HTML
-CSS
-JavaScript
-Dependencies
-Bootstrap: Used for basic styling and layout.
-jQuery: Used for simplifying DOM manipulation.
+
