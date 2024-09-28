@@ -19,7 +19,7 @@ This web application allows users to enter a GitHub username and view the public
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vishnu4546/your-repo-name.git
+   git clone https://github.com/vishnu4546/Github-Repo-Viewer.git
 
 
 
